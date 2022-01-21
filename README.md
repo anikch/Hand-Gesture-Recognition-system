@@ -1,4 +1,4 @@
-# Gesture-Recognition-system
+# Hand Gesture Recognition
 
 ## Problem Statement
 Imagine you are working as a data scientist at a home electronics company which manufactures state of the art smart televisions. You want to develop a cool feature in
