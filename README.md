@@ -3,11 +3,11 @@
 ## Problem Statement
 Imagine you are working as a data scientist at a home electronics company which manufactures state of the art smart televisions. You want to develop a cool feature in
 the smart-TV that can recognize five different gestures performed by the user which will help users control the TV without using a remote. The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:
-• Thumbs up: Increase the volume
-• Thumbs down: Decrease the volume
-• Left swipe: 'Jump' backwards 10 seconds
-• Right swipe: 'Jump' forward 10 seconds
-• Stop: Pause the movie
+- Thumbs up: Increase the volume
+- Thumbs down: Decrease the volume
+- Left swipe: 'Jump' backwards 10 seconds
+- Right swipe: 'Jump' forward 10 seconds
+- Stop: Pause the movie
 
 ## Understanding the Dataset 
 The training data consists of a few hundred videos categorized into one of the five classes. Each video (typically 2-3 seconds long) is divided into a sequence of 30 frames(images). These videos have been recorded by various people performing one of the five gestures in front of a webcam - like what the smart TV will use. Task is to train a model on the 'train' folder which performs well on the 'val' folder as well (as usually done in ML projects). We have withheld the test folder for evaluation purposes - your final model's performance will be tested on the 'test' set.
