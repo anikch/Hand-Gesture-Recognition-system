@@ -34,9 +34,15 @@ datapoints based on the value of the batch size and then performs required image
 
 ### Approach 1: Conv2D + RNN
 
-#### Model 1: InceptionV3 (Finetuning) + LSTM
-
 ![image](https://user-images.githubusercontent.com/77941537/150585035-052b60a2-5211-476c-a548-b2ff3957779b.png)
+
+![image](https://user-images.githubusercontent.com/77941537/150585220-4919bd50-62fc-499a-928e-253989dfde90.png)
+
+### Approach 2: Conv3D
+
+![image](https://user-images.githubusercontent.com/77941537/150585328-bc45b428-ac44-49f0-8593-198350f757f2.png)
+
+![image](https://user-images.githubusercontent.com/77941537/150585415-bf8bc25f-76df-466a-b9eb-09d46ef2ed07.png)
 
 
 ## Conclusion:
