@@ -32,6 +32,10 @@ datapoints based on the value of the batch size and then performs required image
 
 ## Model Building and Experiments:
 
+![image](https://user-images.githubusercontent.com/77941537/150585841-0c14c2cd-c7af-4345-880a-dd044a2bc178.png)
+
+## Model Architectures in details:
+
 ### Approach 1: Conv2D + RNN
 
 ![image](https://user-images.githubusercontent.com/77941537/150585035-052b60a2-5211-476c-a548-b2ff3957779b.png)
